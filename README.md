@@ -28,7 +28,7 @@ EcoWind is a smart energy forecasting and optimization system designed for wind 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/final-project.git
+   git clone https://github.com/nevilbhimani/EcoWind.git
    cd final-project
    ```
 
